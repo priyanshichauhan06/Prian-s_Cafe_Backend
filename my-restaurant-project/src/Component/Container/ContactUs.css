@@ -1,0 +1,25 @@
+.contact-us {
+    padding: 50px 0;
+  }
+  
+  .contact-us h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-us p {
+    margin-bottom: 15px;
+    font-weight: 500;
+  }
+  
+  .contact-info h3 {
+    font-size: 24px;
+    margin-top: 30px;
+    margin-left: 50px;
+  }
+  
+  .contact-info p {
+    margin-bottom: 15px;
+    margin-left: 50px;
+  }
+  
